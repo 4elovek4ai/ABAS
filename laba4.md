@@ -11,7 +11,9 @@
 
 **Схемы сети:**
 *   **Рисунок 1** – Схема ИСПДн «Оказание туристических услуг» (АРМ: Novikov_P.S., Dorokhova_M.A. — Windows 11 Pro, Secret Net Studio, Kaspersky Endpoint Security. Сервер: Sr-2 — Windows Server 2025. Периметр: ViPNet Coordinator HW 5, маршрутизатор).
+![Рисунок 1 – Схема ИСПДн «Оказание туристических услуг»](h0yaM7mf.png)
 *   **Рисунок 2** – Схема ИСПДн «Бухгалтерия и кадры» (АРМ: Zaitseva_S.V., Kuznetsova_O.S. — бухгалтерия; Fedorova_E.A., Gromova_I.P. — кадры. Сервер: Sr-1 — Windows Server 2025. Периметр: ViPNet Coordinator HW 5, маршрутизатор).
+![Рисунок 2 – Схема ИСПДн «Бухгалтерия и кадры»](LdXfqYej.png)
 
 ### Варианты заданий (выдаются преподавателем)
 
